@@ -1,4 +1,4 @@
-## 👋 Hello World! <br> I'm Koushik
+## 👋 Hi, I'm Koushik!
 **`Digital Craftsman (Developer/Animator)`**
 
 I'm an indie frontend developer and animator building my version of the digital world one step at a time. I'm eager to explore new technologies and push the boundaries of creativity. Currently, I'm focusing on mastering advanced CSS techniques and diving into JavaScript freamworks like React. Beyond coding, I enjoy sketching out ideas for my next animation and staying updated with the latest trends in digital art. I'm enthusiastic about collaborating on web development and one-source projects.
