@@ -52,7 +52,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  
- ![snake gif](https://github.com/kidKrix/kidKrix/blob/output/github-contribution-grid-snake.svg)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kidKrix/kidKrix/output/github-contribution-grid-snake.svg" />
 
   
   <br/>
