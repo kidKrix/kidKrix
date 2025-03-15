@@ -36,41 +36,46 @@
 
  <hr/>
  
-<h2 align="center">・Programming Languages🚀</h2>
+<h2>🚀 Languages :</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c"/> <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,flutter"/> <br/>
-    <img src="https://skillicons.dev/icons?i=figma,git,github,netlify,mysql,vscode,androidstudio,arduino"/> <br/>
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">・Frameworks & Libraries🏗 </h2>
+<h2> 🏗 Frameworks & Libraries :</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c"/> <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,flutter"/> <br/>
-    <img src="https://skillicons.dev/icons?i=figma,git,github,netlify,mysql,vscode,androidstudio,arduino"/> <br/>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="50" height="50"/>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">・Tools & Platforms🛠</h2>
+<h2>🛠 Tools & Platforms : </h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c"/> <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,flutter"/> <br/>
-    <img src="https://skillicons.dev/icons?i=figma,git,github,netlify,mysql,vscode,androidstudio,arduino"/> <br/>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍・My Contributions・🐍</h2>
+<div>
+  <h2>🐍 My Contributions :</h2>
   <br>
  
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kidKrix/kidKrix/output/github-contribution-grid-snake.svg" />
@@ -81,11 +86,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ ・Stats</h2>
+<h2>⚡ Stats :</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kidKrix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div>
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kidKrix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kidKrix&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
