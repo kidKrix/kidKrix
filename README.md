@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:koushik2000sarkar@gmail.com">
+  <a href="mailto:ksarkar.me@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://me-koushik.netlify.app" target="_blank">
