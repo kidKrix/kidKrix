@@ -14,13 +14,13 @@
 
 💫 About Me:
 
-- 🎨 Enjoy creating digital art as a hobby
+- 🎨 Enjoy creating digital art as a hobby.
  
-- 🌱 Learning **MERN Stack Web Development**
+- 🌱 Learning **MERN Stack Web Development**.
  
-- 🎮 Exploring game development and electronics with **Scratch and Arduino**
+- 🎮 Exploring game development and electronics with **Scratch and Arduino**.
 
-- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**
+- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**.
   
 - 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
   
