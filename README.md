@@ -6,13 +6,9 @@
 </h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-
-<img align="right" alt="coding" widht="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-
-
 <br>
 
-💫 About Me:
+<h2>💫 About Me: </h2>
 
 - 🎨 Enjoy creating digital art as a hobby.
  
@@ -25,15 +21,15 @@
 - 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
   
 <div> 
-  <a href="mailto:ksarkar.me@gmail.com">
+  <a href="mailto:ksarkar.me@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://me-koushik.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <!--<a href="https://linkedin.com/in/kid-krix" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>-->
+  <a href="https://linkedin.com/in/kid-krix" target="_blank">
+    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -41,11 +37,7 @@
 <h2>🚀 Languages :</h2>
 <br/>
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c"/> 
 </div>
 
 <br/>
@@ -54,8 +46,7 @@
 <h2> 🏗 Frameworks & Libraries :</h2>
 <br/>
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,flutter"/>
 </div>
 
 <br/>
@@ -64,13 +55,7 @@
 <h2>🛠 Tools & Platforms : </h2>
 <br/>
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql,figma,git,netlify,vscode,androidstudio,arduino"/>
 </div>
 
 <br/>
@@ -106,8 +91,8 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
     
-<!--<div align="center">
+<div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>-->
+</div>
 <br/>
 
