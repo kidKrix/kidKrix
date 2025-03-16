@@ -1,28 +1,30 @@
 <!--**kidKrix/kidKrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Koushik+Sarkar!;" />
 </h1>
-
 <h3 align="center">A passionate web developer from India</h3>
 
-<br/>
 
-<div align="center">
+<img align="right" alt="coding" widht="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
- 🎨 Enjoy creating digital art as a hobby
+
+<br>
+
+💫 About Me:
+
+- 🎨 Enjoy creating digital art as a hobby
  
- 🌱 Learning **MERN Stack Web Development**
+- 🌱 Learning **MERN Stack Web Development**
  
- 🎮 Exploring game development and electronics with **Scratch and Arduino**
+- 🎮 Exploring game development and electronics with **Scratch and Arduino**
 
- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**
-
- </div>
- 
-<div align="center"> 
+- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**
+  
+- 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
+  
+<div> 
   <a href="mailto:ksarkar.me@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
