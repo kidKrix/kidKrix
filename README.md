@@ -1,13 +1,14 @@
 <!--**kidKrix/kidKrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Koushik+Sarkar!;" />
 </h1>
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 <h3 align="center">A passionate web developer from India</h3>
-
 <br>
-
+<br>
 <h2>💫 About Me: </h2>
 
 - 🎨 Enjoy creating digital art as a hobby.
