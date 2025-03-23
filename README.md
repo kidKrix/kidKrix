@@ -53,10 +53,19 @@
 <br/>
 <hr/>
 
+<h2> 🛢️ Database & Query Languages :</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+</div>
+
+<br/>
+<hr/>
+
 <h2>🛠 Tools & Platforms : </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=mysql,figma,git,netlify,vscode,androidstudio,arduino"/>
+    <img src="https://skillicons.dev/icons?i=figma,git,netlify,vscode,androidstudio,arduino"/>
 </div>
 
 <br/>
