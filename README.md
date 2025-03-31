@@ -41,26 +41,26 @@
 <div>
 <ul>
 <li>Frontend</li>
+</ul>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,jquery,threejs">
   </a>
-</p>
+</p>  
 <ul>
 <li>Backend</li>
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize">
+    <img src="https://skillicons.dev/icons?i=c,py">
   </a>
 </p>
-<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <ul>
 <li>Database</li>
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase">
   </a>
 </p>
 <ul>
@@ -68,8 +68,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare"><br><br>
-    <img src="https://skillicons.dev/icons?i=vercel,kubernetes">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,cloudflare">
   </a>
 </p>
 <ul>
@@ -77,7 +76,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,vscode,godot,arduino">
   </a>
 </p>
 <br/>
