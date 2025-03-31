@@ -1,5 +1,8 @@
 <!--**kidKrix/kidKrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> 
 
 <h1 align="center">
@@ -116,9 +119,6 @@
 <a href="https://buymeacoffee.com/ksarkarme" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
-    
-<!--<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<br/>->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer">
 
