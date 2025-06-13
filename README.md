@@ -3,7 +3,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> 
+<a href="https://github.com/kidKrix?tab=repositories&sort=stargazers">
+    <img alt="total stars" align="right" src="https://custom-icon-badges.demolab.com/github/stars/kidKrix?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Koushik+Sarkar!;" />
@@ -92,21 +95,33 @@
  
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kidKrix/kidKrix/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/>
+<br/>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h2>⚡ Stats :</h2>
 <br>
-<div>
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kidKrix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kidKrix&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kidKrix&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/> 
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kidKrix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+<br/>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h2>🏆 GitHub Achievements : </h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kidKrix&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
 </div>
 
-<br/><br/>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img alt="visitor-count" src="https://moe-counter.glitch.me/get/@kidKrix?theme=rule34" />
+</div>
+
+<br/>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
