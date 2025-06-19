@@ -100,7 +100,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<h2>⚡ Stats :</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</h2>
 <br>
 <div align="center">
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
