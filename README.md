@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 
 <a href="https://github.com/kidKrix?tab=repositories&sort=stargazers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kidKrix"></a>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kidKrix"></a>
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> -->
 
