@@ -1,6 +1,5 @@
 <!--**kidKrix/kidKrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 
 <a href="https://github.com/kidKrix?tab=repositories&sort=stargazers">
