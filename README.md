@@ -89,7 +89,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div>
-  <h2>🐍 My Contributions :</h2>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> My Contributions :</h2>
   <br>
  
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kidKrix/kidKrix/output/github-contribution-grid-snake.svg" />
@@ -109,7 +109,7 @@
 </div>
 <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h2>🏆 GitHub Achievements : </h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> GitHub Achievements : </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kidKrix&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
