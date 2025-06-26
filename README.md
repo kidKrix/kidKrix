@@ -14,7 +14,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 <br>
-<h2>💫 About Me: </h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me: </h2>
 
 - 🎨 Enjoy creating digital art as a hobby.
  
