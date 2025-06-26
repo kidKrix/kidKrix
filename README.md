@@ -103,12 +103,14 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</h2>
 <br>
-<div align="center">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kidKrix&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kidKrix&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br/> 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kidKrix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
+     <!--Github Stats-->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kidKrix&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github&border_radius=10" />
+    <!--Streaks Stats -->
+    <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=kidKrix&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border_radius=10" />
+    <br/>
+    <!--Most Used Language-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidKrix&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&title_color=FF0000&border_radius=10" />
+    <br/>
 <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> GitHub Achievements : </h2>
