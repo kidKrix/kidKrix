@@ -10,12 +10,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Koushik+Sarkar!;" />
 </h1>
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!--<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />-->
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 <br>
+<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me: </h2>
-
+<div align="left">
+    
 - 🎨 Enjoy creating digital art as a hobby.
  
 - 🌱 Learning **MERN Stack Web Development**.
@@ -25,7 +27,7 @@
 - ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**.
   
 - 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
-  
+ </div> 
 <div> 
   <a href="mailto:ksarkar.me@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
