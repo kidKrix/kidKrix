@@ -20,7 +20,7 @@
     
 - 🎨 Enjoy creating digital art as a hobby.
  
-- 🌱 Learning **MERN Stack Web Development**.
+- 🌱 Learning **Java**.
  
 - 🎮 Exploring game development and electronics with **Scratch and Arduino**.
 
