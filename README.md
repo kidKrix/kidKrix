@@ -139,5 +139,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer">
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=3FFFD0&height=100&amp;section=footer"/>
