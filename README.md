@@ -13,10 +13,9 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me: </h2>
 <div align="left">
     
-- 🎨 Enjoy creating digital art as a hobby.
+- 👨‍💻 Building Websites that help people every day.
 - 🌱 Learning **Java**.
-- 🎮 Exploring game development and electronics with **Scratch and Arduino**.
-- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**.  
+- 🎮 Exploring **game development and electronics**. 
 - 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
 
  </div> 
