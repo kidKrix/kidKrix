@@ -2,17 +2,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=3FFFD0&height=100&amp;section=header"/>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There , I'm Koushik</h2>
-<a href="https://github.com/kidKrix?tab=repositories&sort=stargazers">
-    <img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/kidKrix"></a>
 
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kidKrix.kidKrix" /> -->
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Koushik+Sarkar!;" />
-</h1>
-<!--<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />-->
-<h3 align="center">A passionate web developer from India</h3>
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Web+Designer+%7C+Developer;%F0%9F%94%A5+Building%2C+Learning%2C+Exploring++" alt="Typing SVG">
+  </a>
+</div>
 <br>
 <img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me: </h2>
@@ -31,15 +26,15 @@
  </div>
 
  <div align="start">
-  <a href="mailto:ksarkar.me@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://me-koushik.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  <a href="https://linkedin.com/in/kid-krix" target="_blank">
-    <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+      <a href="mailto:ksarkar.me@gmail.com" >
+        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" /></a>
+      <a href="https://me-koushik.netlify.app" target="_blank">
+         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+     <a href="https://instagram.com/hashtag.krix">
+         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+      <a href="https://linkedin.com/in/kid-krix" target="_blank">
+        <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+      </a>
 </div>
 
  <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
