@@ -1,7 +1,7 @@
 <!--**kidKrix/kidKrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=3FFFD0&height=100&amp;section=header"/>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There , I'm Koushik</h2>
 <a href="https://github.com/kidKrix?tab=repositories&sort=stargazers">
     <img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/kidKrix"></a>
 
@@ -19,24 +19,26 @@
 <div align="left">
     
 - 🎨 Enjoy creating digital art as a hobby.
- 
 - 🌱 Learning **Java**.
- 
 - 🎮 Exploring game development and electronics with **Scratch and Arduino**.
-
-- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**.
-  
+- ⚡ Fun fact **Spider-Man’s suit in the 1990s animated series had web wings for gliding**.  
 - 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
+
  </div> 
-<div> 
+ 
+ <div align="start">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/kidKrix">
+ </div>
+
+ <div align="start">
   <a href="mailto:ksarkar.me@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" />
   </a>
   <a href="https://me-koushik.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://linkedin.com/in/kid-krix" target="_blank">
-    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
