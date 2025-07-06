@@ -28,7 +28,7 @@
       <a href="mailto:ksarkar.me@gmail.com" >
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" /></a>
       <a href="https://me-koushik.netlify.app" target="_blank">
-         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+         <img src="https://img.shields.io/badge/Portfolio%20-%3Cred%3E?style=flat&logo=todoist&logoColor=white&color=red" target="_blank" /></a>
      <a href="https://instagram.com/hashtag.krix">
          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
       <a href="https://linkedin.com/in/kid-krix" target="_blank">
