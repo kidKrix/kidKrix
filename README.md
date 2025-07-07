@@ -39,10 +39,9 @@
 </div>
 
  <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<details>
-<summary> <h2 id="-languages-and-tools">
+<h2 id="-languages-and-tools">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools :
-</h2> </summary>
+</h2>
 <br/>
 
 <table align="start">
@@ -90,7 +89,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <p>Database</p>
+      <p>Database & Framework</p>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
@@ -101,12 +100,12 @@
       <p>PostgreSQL</p>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-      <p>MongoDB</p>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+      <p>Bootstrap</p>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48" />
-      <p>GraphQL</p>
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+      <p>Tailwind</p>
     </td>
   </tr>
   <tr>
@@ -153,51 +152,6 @@
   </tr>
 </table>
 
-  
-    <div>
-<ul>
-<li>Frontend</li>
-</ul>
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,jquery,threejs">
-  </a>
-</p>  
-<ul>
-<li>Backend</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,php">
-  </a>
-</p>
-<ul>
-<li>Database</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase">
-  </a>
-</p>
-<ul>
-<li>Cloud Servers</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=">
-  </a>
-</p>
-<ul>
-<li>Tools</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=">
-  </a>
-</p>
-<br/>
-</div>
-</details>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div>
