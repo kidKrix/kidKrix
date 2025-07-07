@@ -44,7 +44,117 @@
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools :
 </h2> </summary>
 <br/>
-<div>
+
+<table align="start">
+  <tr>
+    <td align="center" width="96">
+      <p>Frontend</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+      <p>JavaScript</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+      <p>HTML</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+      <p>CSS</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
+      <p>jQuery</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <p>Backend</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
+      <p>C</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+      <p>Python</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+      <p>Java</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+      <p>PHP</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <p>Database</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <p>MySQL</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <p>PostgreSQL</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48" />
+      <p>GraphQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <p>Clouds</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+      <p>Vercel</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="48" height="48" />
+      <p>Netlify</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+      <p>Firebase</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="48" height="48" />
+      <p>Cloudflare</p>
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <p>Tools</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48" />
+      <p>VSCode</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+      <p>Figma</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" />
+      <p>Arduino</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+      <p>Git/GitHub</p>
+    </td>
+  </tr>
+</table>
+
+  
+    <div>
 <ul>
 <li>Frontend</li>
 </ul>
@@ -74,7 +184,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,cloudflare">
+    <img src="https://skillicons.dev/icons?i=">
   </a>
 </p>
 <ul>
@@ -82,7 +192,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,vscode,godot,arduino">
+    <img src="https://skillicons.dev/icons?i=">
   </a>
 </p>
 <br/>
