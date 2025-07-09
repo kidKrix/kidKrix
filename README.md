@@ -31,10 +31,10 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" /></a>
       <a href="https://me-koushik.netlify.app" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio%20-%3Cred%3E?style=flat&logo=todoist&logoColor=white&color=red" target="_blank" /></a>
-     <a href="https://instagram.com/hashtag.krix">
+     <a href="https://instagram.com/hashtag.krix" target="_blank">
          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
       <a href="https://linkedin.com/in/kid-krix" target="_blank">
-        <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+        <img  src="https://img.shields.io/badge/in_LinkedIn-0072B1" target="_blank" />
       </a>
 </div>
 
