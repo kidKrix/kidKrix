@@ -79,7 +79,7 @@
       <p>Python</p>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
       <p>Java</p>
     </td>
     <td align="center" width="96">
